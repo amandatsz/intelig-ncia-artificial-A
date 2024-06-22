@@ -1,10 +1,9 @@
 Ç:root{
-    --cor-fundo: #E6E6FA;
-    --cor-principal: #E6E6FA;
-    --cor-secundaria: #E6E6FA; 
-    --cor-destaque: #E6E6FA;
-    --cor-texto: #FFFFFF;
-
+    --cor-fundo: #01080E ;
+    --cor-principal: #0B0D20 ;
+    --cor-secundaria: #212333; 
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
 }
 
 body {
